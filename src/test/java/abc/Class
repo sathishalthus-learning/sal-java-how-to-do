@@ -1,0 +1,47 @@
+//
+
+private class - are inner or nested class
+CONSTRUCTOR OVERLOADING
+	- yes, bcos it is similar to method
+	- with different method signature
+	- default constructor
+	
+	
+METHOD OVERLOADING
+	- methods with same same with different parameters
+	= compiler matches signature based on parameters
+	- private methods can be overloaded
+	- main method can be overloaded, as execution first method .
+
+STATIC METHOD OVERLOADING
+	-YES , because it is similar to normal methods
+
+STATIC METHOD OVERRIDING
+	- NO, it is belong to class not the object
+	- 
+OVERRIDING
+	- the ability to define a method in a child to have the same signature as parent
+	-
+	
+SERIALIZATION AND DESERIALIZATION
+	-
+	
+	- 
+Why main method is static?
+	- it needs to be executed by JVM before any object is created.
+	- it is invoked without creating an intance of class.
+
+What is the use of STATIC VARIABLES ?
+	- belongs to class intead of objects.
+	- used to hold and share values across all instances of a class.
+	- configs, object numbers, constant values, data sharing parts.
+	
+Can we override constructor?
+	- no, can a subclass call it via super().
+	
+Sytem.out.println()?
+	- 
+	
+how to prevent override?
+	- by making it final,
+

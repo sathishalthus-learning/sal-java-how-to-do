@@ -1,0 +1,29 @@
+//
+Array List
+	- used to define dynamic array
+	- List<> = new ArrayList<>();
+	- add, get, remove, size
+	- arrayList, linkedList
+	
+SET
+	- stores unique elements
+	- hashSet, treeSet, linkedHashSet
+	- Set<> = new HashSet<>();
+	
+
+MAP
+	- stores key value pairs
+	- can store objects also
+	- Map<k,v> = new HashMap<>();
+	-hashMap, treeMap, linkedHashMap
+	
+	
+	
+List Vs Set Vs Map
+	- ordered collection of elements
+	- allows duplicates
+	- stores values as they appear in list
+	
+	- unordered collection of elements
+	- does not allow duplicates
+	- 

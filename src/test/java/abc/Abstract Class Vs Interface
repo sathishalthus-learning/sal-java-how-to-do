@@ -1,0 +1,27 @@
+//
+ABSTRACT CLASS
+	- are incomplete classes, 
+	- used to extend and implemented by subclasses
+	- to provide common interface and behavior among subclasses.
+	- provides structure for common implementation for subclasses
+	
+	- we can create constructor
+	- and only can be called from concrete subclass
+	- cannot be instantiated
+	
+	- can contain both abstract and non-abtract methods
+	- can have instance, static and constant variables
+	- can have a constructor, which is called from subclass
+	- subclasses must implement all abstract methods
+	
+INTERFACE
+	- collection of abstract methods
+	- cannot declare variable , constructor
+	- all methods by default public and abstract
+	- used for multiple inheritance
+	- no constructor, doesn't have constructor by definition.
+	- cannot be instantiated bcos its not a class.
+	- default method, can have implementation 
+	- default static method ,can be called from subclass.
+	- it is not possible to initialize variables, 
+	- can contain only constants that are implicityly final and static.

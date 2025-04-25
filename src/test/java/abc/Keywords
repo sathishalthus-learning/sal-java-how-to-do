@@ -1,0 +1,49 @@
+//
+STATIC
+	- define variables , methods
+	- belongs to class rather than instance
+	- cant call a non-static variable in static method
+	
+ABSTRACT
+	- used to indicate a varible, class, method is incomplete
+	- abstract class cannot be instantiated, only subclassed
+	- abtract method declared not implemented
+		
+	
+FINAL
+	- used to declare variables, methods, classes
+	- variables - cannot change values once initialized.
+	- methods - cannot be over-riden
+	- classes - cannot be sub-classed(cannot be inherited)
+	
+THIS
+	- refers the current instance of the class
+	- often used to differentiate instance variables and local variables with same name
+
+FINALLY 
+	- is a code block associated with try-catch
+	- is executed wether an exception is thrown or not
+
+ACCESS MODIFIERS
+	- PRIVATE - within the class
+	- DEFAULT - to same package
+	- PROTECTED - within package and subclasses in other packages
+	- PUBLIC - can be accessed from anywhere
+	
+THREAD
+	- sub-process in a program
+	
+SINGLETON
+	-restricts to only one instance and provides a global access to that instance.
+	- private constructor with a static method returns the instance.
+
+THROW
+	- used to throw a exception explicitly.
+	
+THROWS 
+	-add a indication that a method may throw one or more exception
+	
+POJO
+	- contains only private variables, constructors, getters, setters, without any business logic
+	- provides simple way of encapsulation
+	

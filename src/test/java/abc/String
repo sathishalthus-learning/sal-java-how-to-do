@@ -1,0 +1,9 @@
+Why String is immutable?
+	- security - that malicious changes affect values like passwords
+	- thread safety - reduces risk of data corruption agains threads
+	- caching - proves better memory management and performance.
+	
+String Builder & String Buffer
+	- non-synchronized, efficient
+	- slower bcos synchronized
+	

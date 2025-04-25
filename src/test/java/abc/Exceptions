@@ -1,0 +1,11 @@
+Can we use mutiple catches?
+	- yes, 
+	
+Throwable - superclass of all exceptions
+Types - errors, exceptions
+Error - impossible from recovery
+Exception - can be handles, can be recovered
+types - runtime, checked, unchecked
+runtime exception - occurs during runtime, arithmetic
+checked exception - checked at compile time, must be caught, or declared 
+unchecked exceptions - run time exceptions , can be caughtm but dont have to be, nullpointerexception

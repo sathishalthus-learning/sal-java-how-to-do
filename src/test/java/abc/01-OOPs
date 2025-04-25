@@ -1,0 +1,40 @@
+//
+OBJECT
+	- An object is a software bundle of related state and behavior
+	- Modularity, Information-hiding, Code re-use, Pluggability and debugging ease
+	
+CLASS
+	- A class is a blueprint or prototype from which objects are created.
+
+INHERITANCE
+	- how classes inherit state and behavior from their super-classes.
+	
+	
+INTERFACE
+	- interface is a contract between a class
+	
+PACKAGE
+	- A package is a namespace for organizing classes and interfaces in a logical manner.
+	
+ABSTRACTION
+	- used for abstraction 
+	- contains abstract methods that don't have implementation
+	- abstract class and interface 
+	- it provides a view of abstraction
+
+	
+POLYMORPHISM
+	- different objects of same type to be treated differently 
+	- runtime, compile - overriding and overloading
+	- CLASS - object type casting
+	
+STATIC BINDING & DYNAMIC BINDING
+	- refers to the process of linking function call to function definition
+	- STATIC - happens compilation time and used for method overloading
+	- STATIC - resolved in compilation time
+	- DYNAMIC - happens over runtime time and used for overriding
+	- DYNAMIC - resolved at runtime based on class of the object.
+	
+ENCAPSULATION
+	- the principle of hiding implementation 
+	

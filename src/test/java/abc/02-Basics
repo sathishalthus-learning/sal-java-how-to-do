@@ -1,0 +1,29 @@
+//
+VARIABLES
+	- objects stores its state in fields, called variables
+	- Instance Variables (Non-Static Fields) - unique to each instance of a class (to each object, in other words)
+	- Class Variables (Static Fields)- one copy of this variable in existence, regardless of how many times the class has been instantiated.
+	- Local Variables - the variable is declared — which is between the opening and closing braces of a method
+	- Parameters  - variable is the parameter to this method 
+	
+PRIMITIVES
+	- byte, short, int, long
+	- float, double
+	- boolean, char, String
+	- default values - 0, 0, 0, 0L, 0.0f, 0.0d, '\u0000', false, null
+	
+ARRAYS
+	-  a container object that holds a fixed number of values of a single type
+	
+OPERATORS
+	- 
+	
+EXPRESSIONS, STATEMENTS, BLOCKS
+	- An expression is a construct made up of variables, operators, and method invocations
+	- A statement forms a complete unit of execution
+	- A block is a group of zero or more statements between balanced braces
+	
+FLOW STRUCTURES
+	- if, if else, switch
+	- while, for
+	- break, continue
