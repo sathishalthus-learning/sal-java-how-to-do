@@ -16,6 +16,7 @@ public class Arrays_RemoveDuplicates {
 			i++;
 		}
 		System.out.println(set);
+		System.out.println(i);
 		
 	}
 

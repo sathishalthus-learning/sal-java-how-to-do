@@ -22,7 +22,8 @@ public class Number_N_NN_NNN {
 		
 		System.out.println(result);
 		Date date = new Date();
-		System.out.format(null, args)
+//		System.out.format(""%s", args[0]);
+		System.out.println(date);
 	}
 
 }

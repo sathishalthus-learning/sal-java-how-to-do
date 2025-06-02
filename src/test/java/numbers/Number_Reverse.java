@@ -7,6 +7,8 @@ public class Number_Reverse {
 		
 		int num = 123;
 		int act = num, rev=0;
+		System.out.println(act);
+		
 		
 		while(num!=0) {
 			int remainder = num%10;

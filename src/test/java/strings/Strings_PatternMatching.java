@@ -18,7 +18,7 @@ public class Strings_PatternMatching {
 	      else {
 	    	  for(int i=0; i<pattern.length(); i++) {
 	    		  String val = map.get(pattern.charAt(i));
-	    		  map.put(pattern.charAt(i),);
+	    		  map.put(pattern.charAt(i),val);
 	    		  
 	    	  }
 	    	 

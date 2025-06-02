@@ -7,8 +7,11 @@ public class Conversions {
 		
 		int decimal = 1;
 		int quotient=0,remainder=0;
+		System.out.println(quotient);
+		System.out.println(remainder);
 		
-		String result;
+		String result="";
+		System.out.println(result);
 		StringBuilder string = new StringBuilder("");
 		
 		while(decimal!=0) {
